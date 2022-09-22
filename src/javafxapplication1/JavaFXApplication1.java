@@ -31,7 +31,7 @@ public class JavaFXApplication1 extends Application {
         });
         
         StackPane root = new StackPane();
-        root.getChildren().addAll(btn);
+        root.getChildren().addAll(btn);.
         
         Scene scene = new Scene(root, 300, 250);
         
